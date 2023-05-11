@@ -1,8 +1,8 @@
 #1way
-#dictionary = {}
-#for i in range(97, 123):
- #   dictionary[chr(i)] = i
-#print(dictionary)
+dictionary = {}
+for i in range(97, 123):
+    dictionary[chr(i)] = i
+print(dictionary)
 
 #2way
 # Create an empty dictionary
