@@ -34,7 +34,7 @@ print(df)
 
 
 # In[4]:
-
+#2WAY
 
 import pandas as pd
 data = {
